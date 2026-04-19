@@ -1,0 +1,18 @@
+* text=auto eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.mp4 binary
+*.onnx binary
+*.tflite binary
+*.meta text eol=lf
+*.unity text eol=lf
+*.asset text eol=lf
+*.prefab text eol=lf
